@@ -112,7 +112,7 @@ $ vim sklls.xml
 
  32. Сделать коммит в одну строку.
 # Игорян@Igoryan MINGW64 /d/QAtest/git/xml (main)
-$ git add {{preferences.xml,sklls.xml} | git commit -m "add new files"
+$ git add {preferences.xml,sklls.xml} | git commit -m "add new files"
 
  33. Отправить сразу 2 файла на внешний репозиторий.
 # Игорян@Igoryan MINGW64 /d/QAtest/git/xml (main)
