@@ -158,3 +158,4 @@ $ git push .
  38. Синхронизировать внешний и локальный репозиторий XML
 Игорян@Igoryan MINGW64 /d/QAtest/git/xml (main)
 $ git pull
+
