@@ -120,7 +120,7 @@ $ git push .
 
 
  34. На веб интерфейсе создать файл bug_report.xml.
-#json > add file > enter name > enter commit new file > Commit new file
+#xml > add file > enter name > enter commit new file > Commit new file
 
  35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
 # открыть bug_report.xml для внесения изменений > внести изменения > дать название коменту > Commit changes
